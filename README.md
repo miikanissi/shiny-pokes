@@ -8,8 +8,5 @@ Screenshots:
 
 ![Main Window](https://user-images.githubusercontent.com/48931463/89458141-0f2d2e80-d756-11ea-8fb5-25cf0858bf9f.png)
 
-Main Window
-
 ![Hunt Creation](https://user-images.githubusercontent.com/48931463/89458133-0c323e00-d756-11ea-8d30-07a9ca5ff697.png)
 
-New Hunt Creation
